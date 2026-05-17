@@ -27,14 +27,14 @@ The project is structured into three distinct phases to mirror a real-world data
 
 The Power BI dashboard consists of two core analytical views:
 
-### 1. Customer Demographics & Behavior Overview
+### 1. Customer Behavior & Geographic Deep-Dive Overview
 Focuses on high-level business health, customer segmentation by age/gender, purchasing channels, and seasonal revenue trends.
 *(Tip: Replace the placeholder below with your actual repository image path once uploaded)*
 <img width="2303" height="1286" alt="Screenshot 2026-05-17 133032" src="https://github.com/user-attachments/assets/2d0b86f9-88e8-4261-bc08-5d5ca20b283f" />
 
 
-### 2. Product & Geographic Deep-Dive (Best/Worst)
-Focuses on operational metrics, identifying top and bottom performing products by both revenue and consumer ratings, alongside regional sales performance.
+### 2. Product (Best/Worst)
+Focuses on operational metrics, identifying top and bottom performing products by both revenue and consumer ratings, alongside product wise sales performance.
 <img width="2330" height="1286" alt="Screenshot 2026-05-17 133043" src="https://github.com/user-attachments/assets/bf380a90-3fd8-44f0-9e07-f38280c73a56" />
 
 ---
